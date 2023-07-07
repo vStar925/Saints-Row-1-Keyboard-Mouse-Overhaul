@@ -1,4 +1,4 @@
-# Saints Row-1 Keyboard Mouse Overhaul
+# Saints Row 1 Keyboard Mouse Overhaul
 An overhaul adding emulated controller inputs on KB&amp;M, in addition to replaced button prompts, and tweaked sensitivity to feel more like a mouse.
 
 ## Requirements
@@ -37,7 +37,19 @@ An overhaul adding emulated controller inputs on KB&amp;M, in addition to replac
 
 *Note: You do NOT need to repack the extracted iso file after replacing files. You can run the modified game by opening default.xex directly inside Xenia*
 
-### 3.) Hiding the Mouse Cursor (optional)
+### 3.) In-game settings
+
+The following in-game settings should be set for the intended experience.
+
+- On foot control scheme : B
+
+- Driving control scheme: B
+
+- Left Stick Accel/Brake: Yes
+
+- Vertical/Horizontal Sensitivity: Max
+
+### 4.) Hiding the Mouse Cursor (optional)
 
 Since are you using a mouse in Xenia, the cursor will stay on screen while playing. Somehow, I didn't find this all that distracting but if you're interested in hiding it, follow these steps.
 
